@@ -1,0 +1,2 @@
+# buscaexponencial
+Busca Exponencial 
